@@ -3,3 +3,5 @@ Nesse trabalho que foi feito para a disciplina de Fundamentos De Inteligência A
 Search.jar seria o programa para rodar os algoritmos
 
 Os .xlm sao os dois grafos que foram realizados
+
+Existe em anexo as imagens do esboco e da planta
